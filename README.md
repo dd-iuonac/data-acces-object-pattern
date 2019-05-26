@@ -1,0 +1,1 @@
+# data-acces-object-pattern
