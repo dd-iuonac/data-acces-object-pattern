@@ -1,0 +1,12 @@
+create table Students(
+id varchar(255),
+firstName varchar(255),
+lastName varchar(255),
+average float
+);
+
+insert into Students (id, firstName, lastName, average) values ('lm21130', 'George', 'Popescu', 7.86);
+insert into Students (id, firstName, lastName, average) values ('lm65410', 'Octavian Aurelian', 'Popescu', 5.15);
+insert into Students (id, firstName, lastName, average) values ('lm57109', 'George', 'Lungu', 9.9);
+insert into Students (id, firstName, lastName, average) values ('lm31216', 'Constantin', 'Ionescu', 6.38);
+insert into Students (id, firstName, lastName, average) values ('lm31017', 'Ciprian', 'Ion', 8.9);

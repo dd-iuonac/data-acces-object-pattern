@@ -1,0 +1,14 @@
+<!--
+  ~ /*
+  ~    @author Daniel-Domiţian Iuonac, dd.iuonac@gmail.com
+  ~    @since 23/01/2018
+  ~   */
+  -->
+<students>
+    <student id="lm79213" firstName="Adi" lastName="Popa" average="7.89"/>
+    <student id="lm21130" firstName="Virgil" lastName="Dumitrescu" average="5.15"/>
+    <student id="lm65410" firstName="George" lastName="Popescu" average="9.9"/>
+    <student id="lm57109" firstName="Octavian Aurelian" lastName="Lungu" average="6.38"/>
+    <student id="lm31216" firstName="Constantin" lastName="Ionescu" average="8.9"/>
+    <student id="lm31017" firstName="Ciprian" lastName="Ion" average="8.9"/>
+</students>
